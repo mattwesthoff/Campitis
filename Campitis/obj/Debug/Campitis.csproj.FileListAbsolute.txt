@@ -1,0 +1,7 @@
+C:\code\github\Campitis\Campitis\obj\Debug\ResolveAssemblyReference.cache
+C:\code\github\Campitis\Campitis\bin\Campitis.dll
+C:\code\github\Campitis\Campitis\bin\Campitis.pdb
+C:\code\github\Campitis\Campitis\bin\EntityFramework.dll
+C:\code\github\Campitis\Campitis\bin\EntityFramework.xml
+C:\code\github\Campitis\Campitis\obj\Debug\Campitis.dll
+C:\code\github\Campitis\Campitis\obj\Debug\Campitis.pdb
